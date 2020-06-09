@@ -21,6 +21,7 @@ html {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+
 }
 
 @media (min-width: 576px) {
@@ -690,6 +691,7 @@ html {
     -ms-flex: 0 0 66.666667%;
     flex: 0 0 66.666667%;
     max-width: 66.666667%;
+
   }
   .col-lg-9 {
     -ms-flex: 0 0 75%;
